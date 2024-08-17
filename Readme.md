@@ -1,0 +1,1 @@
+![diseño de chat](./img/para-readme.PNG)
